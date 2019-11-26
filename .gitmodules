@@ -1,0 +1,3 @@
+[submodule "aisl"]
+	path = aisl
+	url = https://github.com/lowenware/aisl.git
